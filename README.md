@@ -4,6 +4,8 @@
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM2Nm1hcGFnbXM4ZmhlZHhucmJuZXA0ZXoyeGUxdHcwcmF0bjZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9xclErzTyAMLpaKfc/giphy.gif)
 
+  - As you can see, I love cats
+
 <!--
 **TheJuliana/TheJuliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
