@@ -3,7 +3,6 @@
   - 👀You can find me on [LinkedIn](https://www.linkedin.com/in/juliana-svetlakova-9ab93022a/)
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM2Nm1hcGFnbXM4ZmhlZHhucmJuZXA0ZXoyeGUxdHcwcmF0bjZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9xclErzTyAMLpaKfc/giphy.gif)
-![](https://th.bing.com/th/id/R.ccc90604714937b33d6c823c799c2afe?rik=5NgBsky9geoIpQ&pid=ImgRaw&r=0)
 
 <!--
 **TheJuliana/TheJuliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
